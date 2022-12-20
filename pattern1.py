@@ -4,6 +4,7 @@ for i in range(1,num+1):
         print("+",end=" ")
     print()
 
+    
     '''
     out put
     enter the number of rows 5
