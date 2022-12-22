@@ -5,6 +5,8 @@ for  i in range (1,a+1):
         print("*",end=" ")
     k=k+2
     print()
+    
+    
     '''
     out put 
     * 
